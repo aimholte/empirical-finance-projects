@@ -1,0 +1,1 @@
+iSharesjoinedcloses(2,2)
